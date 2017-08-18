@@ -1,0 +1,23 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">_enable_pep</custom-field>
+        <custom-field action="copy">_enable_price</custom-field>
+        <custom-field action="copy">_enable_add_to_cart</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="wdm_form_data">
+            <key name="default_sub" />
+            <key name="custom_label" />
+            <key name="cart_custom_label" />
+            <key name="replace_enquiry" />
+            <key name="date_field_label" />
+            <key name="approve_custom_label" />
+            <key name="reject_custom_label" />
+            <key name="reject_message" />
+            <key name="replace_quote" />
+            <key name="show_after_summary" />
+            <key name="company_name" />
+            <key name="company_address" />
+        </key>
+    </admin-texts>
+</wpml-config>

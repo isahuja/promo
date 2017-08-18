@@ -1,0 +1,35 @@
+Return-Path: <noreply@sg3plcpnl0046.prod.sin3.secureserver.net>
+Delivered-To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Received: from sg3plcpnl0046.prod.sin3.secureserver.net
+	by sg3plcpnl0046.prod.sin3.secureserver.net (Dovecot) with LMTP id +vNcGao/kVlh/QMAppqqDg
+	for <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>; Sun, 13 Aug 2017 23:14:02 -0700
+Return-path: <noreply@sg3plcpnl0046.prod.sin3.secureserver.net>
+Envelope-to: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Delivery-date: Sun, 13 Aug 2017 23:14:02 -0700
+Received: from root by sg3plcpnl0046.prod.sin3.secureserver.net with local (Exim 4.88)
+	(envelope-from <noreply@sg3plcpnl0046.prod.sin3.secureserver.net>)
+	id 1dh8dW-00161D-BZ
+	for promocircle@sg3plcpnl0046.prod.sin3.secureserver.net; Sun, 13 Aug 2017 23:14:02 -0700
+To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Subject: [Installatron] WordPress installed
+Date: Mon, 14 Aug 2017 00:14:02 -0600
+From: noreply@sg3plcpnl0046.prod.sin3.secureserver.net
+Message-ID: <84c054c3cb28693bb1a9bb95eafe7e46@sg3plcpnl0046.prod.sin3.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.33
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+WordPress v4.8.1 has been installed to:
+
+http://promocircle.com
+http://promocircle.com/wp-admin
+
+Administrator Username: promocircle
+Administrator Email: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+
+Login to your web hosting control panel and navigate to the Installatron tool to manage this install.
+
+End of report.
+

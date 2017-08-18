@@ -1,0 +1,60 @@
+/*
+* compact theme
+*/
+.compact-theme.woocommerce-products-carousel-all-in-one { overflow: hidden; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-slide { display: none; padding: 1%; position: relative; padding-top: 35px; }
+.compact-theme.woocommerce-products-carousel-all-in-one.owl-loaded .woocommerce-products-carousel-all-in-one-slide { display: block; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-container { border: 1px solid #ebebeb; padding: 10px; transition: all 0.3s ease 0s; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-container:hover { border-color: #ebebeb; background: #fcfcfc; }
+/*
+* product's image
+*/
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-image { text-align: center; vertical-align: central; overflow: hidden; padding-top:10px; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-image a { display: inline-block; width: 100%; text-align: center; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-image img {display: block; margin: 0 auto; width: auto; }
+/*
+* product's details
+*/
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-details { padding: 0 5px 10px 5px; text-align: center; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-title { text-align: center; font-size: 18px; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-desc { font-size: 12px; color: #666; padding: 2%; margin-bottom: 2%; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-categories { text-align: left; padding: 0; margin: 0; background: #eee; padding: 5px; font-size: 12px; }
+
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-sale { background: #f6c43d; padding: 2px 12px 2px 8px; font-size: 0.8751em; color: #FFF; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-price { background: none repeat scroll 0% 0% #D23D46; padding: 2px 12px 2px 8px; font-size: 0.8751em; color: #FFF; text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25); }
+
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-buttons { text-align: center; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-buttons a { margin: 5px; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-add-to-cart-button:before { font-family: "FontAwesome"; content: "\f07a"; padding-right: 10px; }
+/*
+* tags
+*/
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-tags { font-size: 11px; text-align: left; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-tags a:before { font-family: "FontAwesome"; font-size: 11px; content: "\f02c"; padding-right: 7px; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-tags a { padding: 2px 10px; background: #fafafa; color: #666; line-height: 24px; text-decoration: none; border-radius: 2px; -webkit-border-radius: 2px; -moz-border-radius: 2px; transition: all 0.3s ease 0s; }
+.compact-theme.woocommerce-products-carousel-all-in-one .woocommerce-products-carousel-all-in-one-tags a:hover { color: #6E95B6; }
+/*
+* controls
+*/
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-controls { *height: 0; }
+/*
+* navigation
+*/
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-nav div:before  { font-family: "FontAwesome"; font-size: 20px; display: inline-block; content: '\f104'; }
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-controls .owl-nav div  {background: #fff; color: #ccc; border: 1px solid #ccc; text-align: center; text-decoration: none; display: block; width: 0px; height: 25px; line-height: 24px; margin: 0; position: absolute; top: 0; z-index: 10; overflow: hidden; opacity: 1; cursor: pointer; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; transition: all .3s ease;}
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-controls .owl-nav .owl-prev { right: 20px; padding: 0px 13px 0px 7px; }
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-nav .owl-next:before  { content: '\f105'; }
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-controls .owl-nav .owl-next { right: 0; padding: 0px 12px 0px 7px; }
+.compact-theme.woocommerce-products-carousel-all-in-one:hover .owl-controls .owl-nav .owl-prev { opacity: 0.7; }
+.compact-theme.woocommerce-products-carousel-all-in-one:hover .owl-controls .owl-nav .owl-next  { opacity: 0.7; }
+.compact-theme.woocommerce-products-carousel-all-in-one:hover .owl-controls .owl-nav .owl-prev:hover,
+.compact-theme.woocommerce-products-carousel-all-in-one:hover .owl-controls .owl-nav .owl-next:hover { opacity: 1; color: #6E95B6; }
+
+/*
+* dots
+*/
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-dots { text-align: center; position: absolute; top: 5px; right: 50px;  }
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-dots .owl-dot { display: inline-block; zoom: 1; *display: inline; }
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-dots .owl-dot span { width: 5px; height: 5px; margin: 5px 7px; background: #d6d6d6; display: block; -webkit-backface-visibility: visible; -webkit-transition: opacity 200ms ease; -moz-transition: opacity 200ms ease; -ms-transition: opacity 200ms ease; -o-transition: opacity 200ms ease; transition: opacity 200ms ease; -webkit-border-radius: 30px; -moz-border-radius: 30px; border-radius: 30px; }
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-dots .owl-dot.active span { background: #869791; }
+.compact-theme.woocommerce-products-carousel-all-in-one .owl-dots .owl-dot:hover span { transform: scale(2); }

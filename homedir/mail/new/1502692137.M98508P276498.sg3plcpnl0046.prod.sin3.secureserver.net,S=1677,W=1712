@@ -1,0 +1,35 @@
+Return-Path: <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Delivered-To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Received: from sg3plcpnl0046.prod.sin3.secureserver.net
+	by sg3plcpnl0046.prod.sin3.secureserver.net (Dovecot) with LMTP id QhjyBClDkVkSOAQAppqqDg
+	for <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>; Sun, 13 Aug 2017 23:28:57 -0700
+Return-path: <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Envelope-to: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Delivery-date: Sun, 13 Aug 2017 23:28:57 -0700
+Received: from promocircle by sg3plcpnl0046.prod.sin3.secureserver.net with local (Exim 4.88)
+	(envelope-from <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>)
+	id 1dh8rx-0019vW-0R
+	for promocircle@sg3plcpnl0046.prod.sin3.secureserver.net; Sun, 13 Aug 2017 23:28:57 -0700
+To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Subject: [My blog] Password Reset
+X-PHP-Script: promocircle.com/wp-login.php for 150.242.67.73
+X-PHP-Filename: /home/promocircle/public_html/wp-login.php REMOTE_ADDR: 150.242.67.73
+Date: Mon, 14 Aug 2017 06:28:56 +0000
+From: WordPress <wordpress@promocircle.com>
+Message-ID: <c188456d3e2a6792f538d9e92d8f2833@promocircle.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Someone has requested a password reset for the following account:
+
+http://promocircle.com/
+
+Username: promocircle
+
+If this was a mistake, just ignore this email and nothing will happen.
+
+To reset your password, visit the following address:
+
+<http://promocircle.com/wp-login.php?action=rp&key=3zpTfwD4cUiVjE8rMX24&login=promocircle>
+

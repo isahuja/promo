@@ -1,0 +1,41 @@
+Return-Path: <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Delivered-To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Received: from sg3plcpnl0046.prod.sin3.secureserver.net
+	by sg3plcpnl0046.prod.sin3.secureserver.net (Dovecot) with LMTP id w+AyKhKRkVkdsAgAppqqDg
+	for <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>; Mon, 14 Aug 2017 05:01:22 -0700
+Return-path: <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Envelope-to: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Delivery-date: Mon, 14 Aug 2017 05:01:22 -0700
+Received: from promocircle by sg3plcpnl0046.prod.sin3.secureserver.net with local (Exim 4.88)
+	(envelope-from <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>)
+	id 1dhE3e-002O7G-KT
+	for promocircle@sg3plcpnl0046.prod.sin3.secureserver.net; Mon, 14 Aug 2017 05:01:22 -0700
+To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Subject: [PromoCircle] New user account
+X-PHP-Script: promocircle.com/index.php for 150.242.67.73
+X-PHP-Filename: /home/promocircle/public_html/index.php REMOTE_ADDR: 150.242.67.73
+Date: Mon, 14 Aug 2017 12:01:22 +0000
+From: PromoCircle <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Message-ID: <d512224e532060e59c282f4c2952b541@promocircle.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Aniket Sharma has just created an account on PromoCircle. To view their profile click here:
+
+http://promocircle.com/user__trashed/aniketsharma/
+
+Here is the submitted registration form:
+
+country: India
+form_id: 425
+date submitted: 14 Aug 2017 17:30
+role: member
+first_name: Aniket
+last_name: Sharma
+user_email: aniket@gmail.com
+Company: cod studio
+mobile_number: 9871281327
+ProfileImage: http://promocircle.com/wp-content/uploads/ultimatemember/3/stream_photo_a395db71914575d27732edf45616f5ce_599190e90b551.jpg
+user_login: aniketsharma
+

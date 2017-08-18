@@ -1,0 +1,58 @@
+Return-Path: <bounce-md_31015783.59917bd4.v1-11f1950711824d4c8b38f6ca4c9a0fb4@mandrillapp.com>
+Delivered-To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Received: from sg3plcpnl0046.prod.sin3.secureserver.net
+	by sg3plcpnl0046.prod.sin3.secureserver.net (Dovecot) with LMTP id cVtwIwB8kVmMQwcAppqqDg
+	for <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>; Mon, 14 Aug 2017 03:31:28 -0700
+Return-path: <bounce-md_31015783.59917bd4.v1-11f1950711824d4c8b38f6ca4c9a0fb4@mandrillapp.com>
+Envelope-to: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Delivery-date: Mon, 14 Aug 2017 03:31:28 -0700
+Received: from mail180-13.suw31.mandrillapp.com ([198.2.180.13]:6964)
+	by sg3plcpnl0046.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <bounce-md_31015783.59917bd4.v1-11f1950711824d4c8b38f6ca4c9a0fb4@mandrillapp.com>)
+	id 1dhCee-0020DX-Ax
+	for promocircle@sg3plcpnl0046.prod.sin3.secureserver.net; Mon, 14 Aug 2017 03:31:28 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=mandrill; d=ultimatemember.com;
+ h=From:Subject:Message-Id:To:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=sales@ultimatemember.com;
+ bh=yCBfjBtRFlIWb2bEtc4wZC3yufXqixHV0piWhkoPDYI=;
+ b=hKGOL0/98kmlTHS6hJS01MXtWjI4HzvCRskcQ3XtqJQgVf/BKlR3AKGIUfaUtghe7aCW/d0bss6p
+   7p8z5t1YFZCMJRUYTKUxlGw08P5EOuasAihiQuiYei3zoi0xBY6ONLmV/V+YLfaxgSK0ouUnSCKI
+   mZv5OCJDkQmWHctFuO4=
+Received: from pmta03.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail180-13.suw31.mandrillapp.com id hi5u0022sc08 for <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>; Mon, 14 Aug 2017 10:30:44 +0000 (envelope-from <bounce-md_31015783.59917bd4.v1-11f1950711824d4c8b38f6ca4c9a0fb4@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1502706644; h=From : 
+ Subject : Message-Id : To : Date : MIME-Version : Content-Type : 
+ Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=yCBfjBtRFlIWb2bEtc4wZC3yufXqixHV0piWhkoPDYI=; 
+ b=UUJ1X+ioNTZadOJRXu+0VV122wONGxe0JJg7Wko8RKOxrDVSDjtSInQWQnN27J7VQjOld5
+ 2vvyJxFQuNDR30YHTfJ0NVyrc0iUGfjJngGhlukp54Oao/wX1DGTTlMYoGACfoL+dscsYk3z
+ 2DfN0CTA/t0mKwdXqo+hoNVtkE+SI=
+From: Ultimate Member <sales@ultimatemember.com>
+Subject: Ultimate Member Discount Code
+Received: from [107.170.139.156] by mandrillapp.com id 11f1950711824d4c8b38f6ca4c9a0fb4; Mon, 14 Aug 2017 10:30:44 +0000
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+Message-Id: <86d09307c89c9478a963dbc71a1aaa94@ultimatemember.com>
+To: <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=31015783.11f1950711824d4c8b38f6ca4c9a0fb4
+X-Mandrill-User: md_31015783
+Date: Mon, 14 Aug 2017 10:30:44 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Thank you for allowing us to track your usage of Ultimate Member.
+
+Your discount code is below:
+
+59917bb6cb575
+
+This code can be used to purchase our core extensions bundle (https://ultimatemember.com/core-extensions-bundle/). This is a one-time use discount code and will allow you to get 20% off the bundle. The coupon is valid until August 29, 2017.
+
+You can view the core extensions bundle here:
+https://ultimatemember.com/core-extensions-bundle/
+
+Note that we do NOT track any personal or user information from your site, only the site URL, the active theme, and the active plugins. No sensitive data whatsoever is collected.
+
+Thank you!
+The Ultimate Member team

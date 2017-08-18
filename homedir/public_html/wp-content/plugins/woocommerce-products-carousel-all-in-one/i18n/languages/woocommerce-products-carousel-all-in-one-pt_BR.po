@@ -1,0 +1,627 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-products-carousel-all-in-one\n"
+"POT-Creation-Date: 2016-04-21 06:26+0100\n"
+"PO-Revision-Date: 2016-04-26 09:00+0100\n"
+"Last-Translator: Marcin Gierada <m.gierada@teastudio.pl>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Crowdin-Project: woocommerce-products-carousel-all-in-one\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: woocommerce-products-carousel-all-in-one.po\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: carousel-generator.class.php:140
+msgid "Theme - %.css stylesheet is missing. "
+msgstr "Tema - folha de estilos %s.css não encontrado."
+
+#: carousel-generator.class.php:320 carousel-generator.class.php:430
+msgid "Show item"
+msgstr "Mostrar item"
+
+#: carousel-generator.class.php:348
+#, php-format
+msgid "View all items in %s"
+msgstr "Mostrar todos os itens em %s"
+
+#: carousel-generator.class.php:382 includes/utils.class.php:48
+msgid "On sale"
+msgstr "Promoção"
+
+#: carousel-generator.class.php:396
+msgid "From"
+msgstr "Por"
+
+#: carousel-generator.class.php:418
+msgid "Add to cart"
+msgstr "Adicionar ao carrinho"
+
+#: carousel-generator.class.php:419
+msgid "add to cart"
+msgstr "adicionar ao carrinho"
+
+#: carousel-generator.class.php:422
+msgid "Out of stock"
+msgstr "Sem estoque"
+
+#: carousel-generator.class.php:428
+msgid "Download"
+msgstr "Download"
+
+#: carousel-generator.class.php:428
+msgid "<i class=\"icon-download-alt icon-\"></i> download"
+msgstr "<i class=\"icon-download-alt icon-\"></i> download"
+
+#: carousel-generator.class.php:430
+msgid "show item"
+msgstr "mostrar item"
+
+#: carousel-generator.class.php:435
+msgid "Show more items"
+msgstr "Mostrar mais itens"
+
+#: carousel-generator.class.php:435
+msgid "show more items"
+msgstr "mostrar mais itens"
+
+#: carousel-generator.class.php:540
+msgid "previous product"
+msgstr "produto anterior"
+
+#: carousel-generator.class.php:540
+msgid "next product"
+msgstr "próximo produto"
+
+#: carousel-widget.class.php:22
+msgid "WooCommerce Products Carousel all in one"
+msgstr "WooCommerce Products Carousel all in one"
+
+#: carousel-widget.class.php:25
+msgid "Show new, featured or popular products in Owl Carousel"
+msgstr "Mostrar produtos novos, em destaque e populares no Owl Carousel"
+
+#: carousel-widget.class.php:70
+msgid "Title"
+msgstr "Título"
+
+#: carousel-widget.class.php:75 shortcode-generator.php:66
+msgid "Basic options"
+msgstr "Opções básicas"
+
+#: carousel-widget.class.php:78 shortcode-generator.php:72
+msgid "Products limit"
+msgstr "Limite de produtos"
+
+#: carousel-widget.class.php:85 shortcode-generator.php:80
+msgid "Product Selection Criteria"
+msgstr "Critério de Seleção de Produto"
+
+#: carousel-widget.class.php:87 shortcode-generator.php:84
+msgid "Show Products"
+msgstr "Mostrar Produtos"
+
+#: carousel-widget.class.php:100 shortcode-generator.php:97
+msgid "Include out of stock"
+msgstr "Incluir produtos sem estoque"
+
+#: carousel-widget.class.php:103 shortcode-generator.php:103
+msgid "but"
+msgstr "mas"
+
+#: carousel-widget.class.php:106 shortcode-generator.php:106
+msgid "Exclude Products with IDs"
+msgstr "Excluir Produtos com IDs"
+
+#: carousel-widget.class.php:107 carousel-widget.class.php:115
+#: carousel-widget.class.php:123 shortcode-generator.php:123
+msgid "Please enter Product IDs with comma seperated."
+msgstr "Por favor, informe os IDs dos produtos separados por vírgula."
+
+#: carousel-widget.class.php:111 shortcode-generator.php:115
+msgid "or"
+msgstr "ou"
+
+#: carousel-widget.class.php:114 shortcode-generator.php:119
+msgid "Show Products with IDs"
+msgstr "Mostrar Produtos com IDs"
+
+#: carousel-widget.class.php:119 shortcode-generator.php:128
+msgid "also include"
+msgstr "também incluir"
+
+#: carousel-widget.class.php:122 shortcode-generator.php:132
+msgid "Products with Category IDs"
+msgstr "Produtos com os seguintes IDs de Categoria"
+
+#: carousel-widget.class.php:127 shortcode-generator.php:141
+msgid "And/Or"
+msgstr "E/Ou"
+
+#: carousel-widget.class.php:138 shortcode-generator.php:155
+msgid "Products with Tag names"
+msgstr "Produtos com nomes de Tag"
+
+#: carousel-widget.class.php:139 shortcode-generator.php:159
+msgid "Please enter Tag names with comma seperated."
+msgstr "Por favor, informe o nome das Tags separadas por vírgula."
+
+#: carousel-widget.class.php:146 shortcode-generator.php:167
+msgid "Ordering"
+msgstr "Ordenação"
+
+#: carousel-widget.class.php:161 shortcode-generator.php:187
+msgid "Display options"
+msgstr "Opções de exibição"
+
+#: carousel-widget.class.php:164 shortcode-generator.php:193
+msgid "Template"
+msgstr "Modelo"
+
+#: carousel-widget.class.php:177 shortcode-generator.php:206
+msgid "Show title"
+msgstr "Mostrar título"
+
+#: carousel-widget.class.php:180 shortcode-generator.php:212
+msgid "Show description"
+msgstr "Mostrar descrição"
+
+#: carousel-widget.class.php:193 shortcode-generator.php:225
+msgid "Allow shortcodes in full content"
+msgstr "Permitir shortcodes no conteúdo completo"
+
+#: carousel-widget.class.php:197 shortcode-generator.php:231
+msgid "Show price"
+msgstr "Mostrar preço"
+
+#: carousel-widget.class.php:201 shortcode-generator.php:237
+msgid "Show category"
+msgstr "Mostrar categoria"
+
+#: carousel-widget.class.php:205 shortcode-generator.php:243
+msgid "Show tags"
+msgstr "Mostrar tags"
+
+#: carousel-widget.class.php:209 shortcode-generator.php:249
+msgid "Show add to cart button"
+msgstr "Mostrar o botão adicionar ao carrinho"
+
+#: carousel-widget.class.php:213 shortcode-generator.php:255
+msgid "Show more button"
+msgstr "Mostrar o botão mais"
+
+#: carousel-widget.class.php:217 shortcode-generator.php:261
+msgid "Show more items button"
+msgstr "Mostrar o botão mais itens"
+
+#: carousel-widget.class.php:221 shortcode-generator.php:267
+msgid "Show featured image"
+msgstr "Mostrar imagens em destaque"
+
+#: carousel-widget.class.php:224 shortcode-generator.php:273
+msgid "Image source"
+msgstr "Origem da imagem"
+
+#: carousel-widget.class.php:236 shortcode-generator.php:286
+msgid "Image height"
+msgstr "Altura da imagem"
+
+#: carousel-widget.class.php:241 shortcode-generator.php:292
+msgid "Image width"
+msgstr "Largura da imagem"
+
+#: carousel-widget.class.php:248 shortcode-generator.php:305
+msgid "Carousel options"
+msgstr "Opções do carousel"
+
+#: carousel-widget.class.php:252 shortcode-generator.php:313
+msgid "Items to show"
+msgstr "Itens à exibir"
+
+#: carousel-widget.class.php:254 shortcode-generator.php:317
+msgid "on mobiles"
+msgstr "em dispositivos móveis"
+
+#: carousel-widget.class.php:259 shortcode-generator.php:323
+msgid "on tablets"
+msgstr "em tablets"
+
+#: carousel-widget.class.php:264 shortcode-generator.php:329
+msgid "on laptops and desktops"
+msgstr "em laptops e desktops"
+
+#: carousel-widget.class.php:271 shortcode-generator.php:362
+msgid "Slide by"
+msgstr "Deslize por"
+
+#: carousel-widget.class.php:272 shortcode-generator.php:365
+msgid "Number of elements to slide."
+msgstr "Número de elementos para deslizar."
+
+#: carousel-widget.class.php:277 shortcode-generator.php:369
+msgid "Stage padding"
+msgstr "Preenchimento da fase"
+
+#: carousel-widget.class.php:278 shortcode-generator.php:372
+msgid "Padding left and right on stage (can see prev and next products)."
+msgstr ""
+"Preenchimento à esquerda e à direita na fase (pode visualizar os produtos "
+"anteriores e próximos)."
+
+#: carousel-widget.class.php:283 shortcode-generator.php:376
+msgid "Margin"
+msgstr "Margem"
+
+#: carousel-widget.class.php:284 shortcode-generator.php:379
+msgid "Margin between items."
+msgstr "Margem entre itens."
+
+#: carousel-widget.class.php:290 shortcode-generator.php:383
+msgid "Inifnity loop"
+msgstr "Loop infinito"
+
+#: carousel-widget.class.php:291 shortcode-generator.php:386
+msgid "Duplicate last and first items to get loop illusion."
+msgstr "Duplicar o primeiro e último itens para dar a ilusão de continuidade."
+
+#: carousel-widget.class.php:295 shortcode-generator.php:390
+msgid "Pause on mouse hover"
+msgstr "Pausar no mouse hover"
+
+#: carousel-widget.class.php:299 shortcode-generator.php:396
+msgid "Auto play"
+msgstr "Auto execução"
+
+#: carousel-widget.class.php:302 shortcode-generator.php:402
+msgid "Autoplay interval timeout"
+msgstr "Intervalo de timeout de auto execução"
+
+#: carousel-widget.class.php:307 shortcode-generator.php:408
+msgid "Autoplay speed"
+msgstr "Velocidade de auto execução"
+
+#: carousel-widget.class.php:313
+msgid "show \"next\" and \"prev\" buttons"
+msgstr "mostrar os botões de \"próximo\" e \"anterior\""
+
+#: carousel-widget.class.php:316 shortcode-generator.php:420
+msgid "Navigation speed"
+msgstr "Velocidade de navegação"
+
+#: carousel-widget.class.php:322 shortcode-generator.php:426
+msgid "Show dots navigation"
+msgstr "Mostrar pontos de navegação"
+
+#: carousel-widget.class.php:325 shortcode-generator.php:432
+msgid "Dots speed"
+msgstr "Velocidade dos pontos"
+
+#: carousel-widget.class.php:331 shortcode-generator.php:438
+msgid "Delays loading of images"
+msgstr "Retardar o carregamento das imagens"
+
+#: carousel-widget.class.php:332 shortcode-generator.php:441
+msgid ""
+"Images outside of viewport won't be loaded before user scrolls to them. "
+"Great for mobile devices to speed up page loadings."
+msgstr ""
+"Imagens fora do ponto de visão não serão carregadas até que o usuário "
+"navegue para elas. Excelente para dispositivos móveis para melhorar a "
+"velocidade de carregamento das páginas."
+
+#: carousel-widget.class.php:333 carousel-widget.class.php:369
+#: shortcode-generator.php:442 shortcode-generator.php:489
+msgid ""
+"With some themes or servers it might cause problems. If you have problem "
+"with your carousel (e.g: one of the images did not show, etc.), please "
+"uncheck this option."
+msgstr ""
+"Com alguns temas ou servidores isso pode causar problemas. Se você encontrar "
+"algum problema com o seu carousel (e.g: alguma das imagens não aparecem, "
+"etc.), por favor, desabilite esta opção."
+
+#: carousel-widget.class.php:337 shortcode-generator.php:446
+msgid "Mouse events"
+msgstr "Eventos de mouse"
+
+#: carousel-widget.class.php:341 shortcode-generator.php:452
+msgid "Mousewheel scrolling"
+msgstr "Rodinha de rolagem do mouse"
+
+#: carousel-widget.class.php:342 shortcode-generator.php:455
+msgid ""
+"With some themes or servers it might cause problems. If you have problem "
+"with your carousel or site (e.g: you can't scroll the page, etc.), please "
+"uncheck this option."
+msgstr ""
+"Com alguns temas ou servidores isso pode causar problemas. Se você encontrar "
+"algum problema com o seu carousel (e.g: alguma das imagens não aparecem, "
+"etc.), por favor, desabilite esta opção."
+
+#: carousel-widget.class.php:346 shortcode-generator.php:459
+msgid "Touch events"
+msgstr "Eventos de toque"
+
+#: carousel-widget.class.php:349 shortcode-generator.php:465
+msgid "Animation"
+msgstr "Animação"
+
+#: carousel-widget.class.php:362 shortcode-generator.php:478
+msgid "Auto width"
+msgstr "Largura automática"
+
+#: carousel-widget.class.php:363 shortcode-generator.php:481
+msgid ""
+"It's recommended to set width on divs, but sometimes you may want this "
+"option :)"
+msgstr ""
+"É recomendado que a largura seja definida em divs, mas algumas vezes você "
+"pode querer esta opção :)"
+
+#: carousel-widget.class.php:367 shortcode-generator.php:485
+msgid "Auto height"
+msgstr "Altura automática"
+
+#: carousel-widget.class.php:368 shortcode-generator.php:488
+msgid "Height adjusted dynamically to highest displayed item."
+msgstr "Altura ajustada automaticamente para o item mais alto sendo exibido."
+
+#: includes/plugin-info.php:17
+msgid "Version"
+msgstr "Versão"
+
+#: includes/plugin-info.php:21
+msgid "Donate, if you like this plugin"
+msgstr "Doe, se você gostou deste plugin"
+
+#: includes/plugin-info.php:24
+msgid "Thanks for all donations, no matter the size."
+msgstr "Obrigado por todas as doações, não importa o tamanho."
+
+#: includes/plugin-info.php:36
+msgid "Leave your review at wordpress.org"
+msgstr "Deixe sua avaliação em wordpress.org"
+
+#: includes/plugin-info.php:37
+msgid "You can also leave a good review"
+msgstr "Você também pode deixar uma boa avaliação"
+
+#: includes/plugin-info.php:51
+msgid "Need support?"
+msgstr "Precisa de ajuda?"
+
+#: includes/plugin-info.php:55
+msgid "If you are having problems with this plugin, please contact by"
+msgstr ""
+"Se você está com problemas com este plugin, por favor, entre em contato com"
+
+#: includes/plugin-info.php:58
+msgid "For more information about this plugin, please visit"
+msgstr "For mais informações sobre este plugin, por favor, visite"
+
+#: includes/plugin-info.php:58
+msgid "plugin page"
+msgstr "página do plugin"
+
+#: includes/plugin-info.php:65
+msgid "Need custom modification, plugin or theme?"
+msgstr "Precisa de modificações customizadas, plugin ou tema?"
+
+#: includes/plugin-info.php:69
+msgid ""
+"If you like this plugin, but need something a bit more custom or completely "
+"new, you can hire me to work for you!"
+msgstr ""
+"Se você gostou deste plugin, mas precisa de alguma coisa mais customizada ou "
+"completamente nova, você pode me contratar para trabalhar para você!"
+
+#: includes/plugin-info.php:72
+msgid ""
+"Email me at <a href=\"mailto:m.gierada@teastudio.pl\" title=\"Hire me\">m."
+"gierada@teastudio.pl</a> for more information!"
+msgstr ""
+"Me envie um e-mail em <a href=\"mailto:m.gierada@teastudio.pl\" title=\"Hire "
+"me\">m.gierada@teastudio.pl</a> para mais informações!"
+
+#: includes/utils.class.php:43
+msgid "By id"
+msgstr "Por id"
+
+#: includes/utils.class.php:44
+msgid "By title"
+msgstr "Por título"
+
+#: includes/utils.class.php:45
+msgid "Newest"
+msgstr "Mais novo"
+
+#: includes/utils.class.php:46
+msgid "Popular"
+msgstr "Popular"
+
+#: includes/utils.class.php:47
+msgid "Featured"
+msgstr "Em destaque"
+
+#: includes/utils.class.php:54
+msgid "Ascending"
+msgstr "Crescente"
+
+#: includes/utils.class.php:55
+msgid "Descending"
+msgstr "Decrescente"
+
+#: includes/utils.class.php:56
+msgid "Random"
+msgstr "Aleatório"
+
+#: includes/utils.class.php:62
+msgid "No"
+msgstr "Não"
+
+#: includes/utils.class.php:63
+msgid "Excerpt"
+msgstr "Resumo"
+
+#: includes/utils.class.php:64
+msgid "Full content"
+msgstr "Conteúdo completo"
+
+#: includes/utils.class.php:70
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: includes/utils.class.php:71
+msgid "Medium"
+msgstr "Médio"
+
+#: includes/utils.class.php:72
+msgid "Large"
+msgstr "Grande"
+
+#: includes/utils.class.php:73
+msgid "Full"
+msgstr "Total"
+
+#: includes/utils.class.php:116
+msgid "And"
+msgstr "E"
+
+#: includes/utils.class.php:117
+msgid "Or"
+msgstr "Ou"
+
+#: includes/utils.class.php:137
+msgid "Hint"
+msgstr "Dica"
+
+#: shortcode-generator.php:18
+msgid "Error detected.\\nPlease correct your form and try again."
+msgstr ""
+"Erro encontrado.\\nPor favor, corrija seu formulário e tente novamente."
+
+#: shortcode-generator.php:110
+msgid "Please enter Product IDs with comma seperated to exlude from display."
+msgstr ""
+"Por favor, informe os IDs de Produto separados por vírgula para excluí-los "
+"da exibição."
+
+#: shortcode-generator.php:136
+msgid "Please enter Category IDs with comma seperated."
+msgstr "Por favor, informe os IDs das Categorias separadas por vírgula."
+
+#: shortcode-generator.php:342
+msgid "Custom breakpoints for RWD"
+msgstr "Pontos de parada customizados para RWD"
+
+#: shortcode-generator.php:343
+msgid "Custom breakpoint are defined on plugin's settings page."
+msgstr ""
+"Pontos de parada customizados são definidos na página de configuração do "
+"plugin."
+
+#: shortcode-generator.php:414
+msgid "Show \"next\" and \"prev\" buttons"
+msgstr "Mostrar os botões de \"próximo\" e \"anterior\""
+
+#: shortcode-generator.php:496
+msgid "Insert Shortcode"
+msgstr "Inserir Shortcode"
+
+#: woocommerce-products-carousel-all-in-one.php:126
+msgid ""
+"The <strong>WooCommerce Products Carousel all in one</strong> plugin require "
+"WooCommerce plugin. Please install or active this plugin."
+msgstr ""
+"O plugin <strong>WooCommerce Products Carousel all in one</strong> precisa "
+"do plugin WooCommerce. Por favor, instale ou ative este plugin."
+
+#: woocommerce-products-carousel-all-in-one.php:251
+msgid "Main settings"
+msgstr "Configurações principais"
+
+#: woocommerce-products-carousel-all-in-one.php:257
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: woocommerce-products-carousel-all-in-one.php:262
+msgid "Include Font Awesome"
+msgstr "Incluir o Font Awesome"
+
+#: woocommerce-products-carousel-all-in-one.php:268
+msgid "Include Font Awesome in Admin panel"
+msgstr "Inclui o Font Awesome no painel de Administração"
+
+#: woocommerce-products-carousel-all-in-one.php:271
+msgid ""
+"Select this option if you would like to include <a href=\"http://fortawesome."
+"github.io/Font-Awesome/\" target=\"_blank\"><b>Font Awesome</b></a> "
+"stylesheet.<br />Uncheck if you are already using this library."
+msgstr ""
+"Selecione esta opção se você gostaria de incluir a folha de estilos do <a "
+"href=\"http://fortawesome.github.io/Font-Awesome/\" target=\"_blank"
+"\"><b>Font Awesome</b></a>.<br />Desabilite esta opção se você já utiliza "
+"esta biblioteca."
+
+#: woocommerce-products-carousel-all-in-one.php:275
+msgid "Scripts include"
+msgstr "Scripts de inclusão"
+
+#: woocommerce-products-carousel-all-in-one.php:279
+msgid "Include plugin's scripts in \"footer\" section"
+msgstr "Incluir os scripts do plugin na seção \"rodape\""
+
+#: woocommerce-products-carousel-all-in-one.php:281
+msgid ""
+"Select if you want to include plugins's scripts in \"footer\" section. (on "
+"defaults is include in \"head\")"
+msgstr ""
+"Selecione se você quer incluir os scripts do plugin na seção do rodapé. (por "
+"padrão ele é incluído no \"cabeçalho\")"
+
+#: woocommerce-products-carousel-all-in-one.php:287
+msgid "Carousel settings"
+msgstr "Configurações do Carousel"
+
+#: woocommerce-products-carousel-all-in-one.php:293
+msgid "Custom breakpoints"
+msgstr "Pontos de parada customizados"
+
+#: woocommerce-products-carousel-all-in-one.php:298
+msgid ""
+"If you need, you can provide custom breakpoints (device screen width) for "
+"Responsive Web Design. Please enter breakpoints with comma seperated, e.g: "
+"900,800"
+msgstr ""
+"Se você precisar, você pode fornecer pontos de parada customizados (largura "
+"de tela do dispositivo) para Modelagem Web Responsiva. Por favor, informe os "
+"pontos de parada separados por vírgula, e.g: 900,800"
+
+#: woocommerce-products-carousel-all-in-one.php:308
+msgid ""
+"Now you can go to widget list or to post/page edit for create your first "
+"carousel. Have fun!"
+msgstr ""
+"Agora você pode ir para a lista de widgets ou para a edição de mensagem/"
+"página para criar o seu primeiro carousel. Divirta-se!"
+
+msgid "Select what you want to display"
+msgstr "Selecione o que você quer exibir"
+
+msgid "show"
+msgstr "mostrar"
+
+msgid "by selected IDs"
+msgstr "por IDs escolhidos"
+
+msgid "Tag names"
+msgstr "Nomes das tags"
+
+msgid "Product options"
+msgstr "Opções do produto"

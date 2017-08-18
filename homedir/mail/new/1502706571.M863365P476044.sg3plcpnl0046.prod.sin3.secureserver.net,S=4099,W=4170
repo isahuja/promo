@@ -1,0 +1,71 @@
+Return-Path: <>
+Delivered-To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Received: from sg3plcpnl0046.prod.sin3.secureserver.net
+	by sg3plcpnl0046.prod.sin3.secureserver.net (Dovecot) with LMTP id SdN8EIt7kVmMQwcAppqqDg
+	for <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>; Mon, 14 Aug 2017 03:29:31 -0700
+Return-path: <>
+Envelope-to: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Delivery-date: Mon, 14 Aug 2017 03:29:31 -0700
+Received: from mailnull by sg3plcpnl0046.prod.sin3.secureserver.net with local (Exim 4.88)
+	id 1dhCcl-001zs8-OE
+	for promocircle@sg3plcpnl0046.prod.sin3.secureserver.net; Mon, 14 Aug 2017 03:29:31 -0700
+X-Failed-Recipients: a.example@example.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sg3plcpnl0046.prod.sin3.secureserver.net>
+To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1502706571-eximdsn-1179886504
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1dhCcl-001zs8-OE@sg3plcpnl0046.prod.sin3.secureserver.net>
+Date: Mon, 14 Aug 2017 03:29:31 -0700
+
+--1502706571-eximdsn-1179886504
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  a.example@example.com
+    host sg2nlshrout-v02.shr.prod.sin2.secureserver.net [182.50.132.241]
+    SMTP error from remote mail server after RCPT TO:<a.example@example.com>:
+    550 5.1.1 <a.example@example.com> recipient rejected. This is a default recipient used as a placeholder in many web applications. Please check your settings and try again.
+
+--1502706571-eximdsn-1179886504
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sg3plcpnl0046.prod.sin3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;a.example@example.com
+Status: 5.0.0
+Remote-MTA: dns; sg2nlshrout-v02.shr.prod.sin2.secureserver.net
+Diagnostic-Code: smtp; 550 5.1.1 <a.example@example.com> recipient rejected. This is a default recipient used as a placeholder in many web applications. Please check your settings and try again.
+
+--1502706571-eximdsn-1179886504
+Content-type: message/rfc822
+
+Return-path: <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Received: from promocircle by sg3plcpnl0046.prod.sin3.secureserver.net with local (Exim 4.88)
+	(envelope-from <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>)
+	id 1dhCcl-001zrp-IB
+	for a.example@example.com; Mon, 14 Aug 2017 03:29:31 -0700
+To: a.example@example.com
+Subject: New Post Published - Logout
+X-PHP-Script: promocircle.com/wp-admin/admin.php for 150.242.67.73
+X-PHP-Filename: /home/promocircle/public_html/wp-admin/admin.php REMOTE_ADDR: 150.242.67.73
+Date: Mon, 14 Aug 2017 10:29:29 +0000
+From: PromoCircle <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Reply-To: "\"PromoCircle\"" <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Message-ID: <c5d53611f77960a72e05dda6af5a4019@promocircle.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+X-Mailer: PHP7.1.6
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Hello Example,<br /><br />We have published a new blog article on our website : Logout<br /><br /><br />You can view it from this link : <a href='http://promocircle.com/logout/' target='_blank'>http://promocircle.com/logout/</a><br /><br />Thanks & Regards,<br />Admin<br /><br />You received this email because in the past you have provided us your email address : a.example@example.com to receive notifications when new updates are posted.<br><br>No longer interested in emails from PromoCircle?. Please <a href='http://promocircle.com/?es=unsubscribe&db=2&email=a.example@example.com&guid=ounxvf-fkthvg-lztbdc-fwnocd-ohbedu&cache=ogkifn-vsfktm-nbxctk-qhyvit-slvxmj'>click here</a> to unsubscribe<img src="http://promocircle.com/?es=viewstatus&delvid=13" width="1" height="1" />
+
+
+--1502706571-eximdsn-1179886504--

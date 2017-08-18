@@ -1,0 +1,32 @@
+Return-Path: <noreply@sg3plcpnl0046.prod.sin3.secureserver.net>
+Delivered-To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Received: from sg3plcpnl0046.prod.sin3.secureserver.net
+	by sg3plcpnl0046.prod.sin3.secureserver.net (Dovecot) with LMTP id q21uAKaKkVlHVggAppqqDg
+	for <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>; Mon, 14 Aug 2017 04:33:58 -0700
+Return-path: <noreply@sg3plcpnl0046.prod.sin3.secureserver.net>
+Envelope-to: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Delivery-date: Mon, 14 Aug 2017 04:33:58 -0700
+Received: from root by sg3plcpnl0046.prod.sin3.secureserver.net with local (Exim 4.88)
+	(envelope-from <noreply@sg3plcpnl0046.prod.sin3.secureserver.net>)
+	id 1dhDd8-002IED-Sa
+	for promocircle@sg3plcpnl0046.prod.sin3.secureserver.net; Mon, 14 Aug 2017 04:33:58 -0700
+To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Subject: [Installatron] WordPress theme Storefront 2.2.4 now available
+Date: Mon, 14 Aug 2017 05:33:58 -0600
+From: noreply@sg3plcpnl0046.prod.sin3.secureserver.net
+Message-ID: <7d83f3579c8cc628f351eb7028e1656b@sg3plcpnl0046.prod.sin3.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.33
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to Storefront 2.2.4 is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://promocircle.com
+
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

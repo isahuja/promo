@@ -1,0 +1,313 @@
+/* ===============================================
+   GENERICONS
+   =============================================== */
+
+@font-face {
+	font-family: 'Genericons';
+	src: url('../fonts/Genericons.eot');
+	src: url('../fonts/Genericons.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Genericons.woff') format('woff'),
+		url('../fonts/Genericons.ttf') format('truetype'),
+		url('../fonts/Genericons.svg#star') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* ===============================================
+   SLICK STYLE
+   =============================================== */
+
+.wip-woocarousel-wrapper .slick-arrow.slick-hidden {
+    display: none;
+}
+
+.wip-woocarousel-wrapper .slick-prev, 
+.wip-woocarousel-wrapper .slick-next {
+    position: absolute;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+	margin-top:-15px;
+    background:#fff;
+	border:solid 1px #d6d6d6;
+	color:#616161;
+    cursor: pointer;
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease; 
+	-o-transition: all .3s ease;
+	opacity: 0.0;
+	z-index:999;
+}
+
+.wip-woocarousel-wrapper .slick-prev:after, 
+.wip-woocarousel-wrapper .slick-next:after {
+    font-family: Genericons;
+	content: '\f432';
+	position:absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.wip-woocarousel-wrapper .slick-prev:after {
+    -ms-transform:  translateX(-50%) translateY(-50%) rotate(-90deg);
+    -webkit-transform:  translateX(-50%) translateY(-50%) rotate(-90deg);
+    transform:  translateX(-50%) translateY(-50%) rotate(-90deg);
+
+}
+
+.wip-woocarousel-wrapper .slick-next:after {
+    -ms-transform:  translateX(-50%) translateY(-50%) rotate(90deg);
+    -webkit-transform:  translateX(-50%) translateY(-50%) rotate(90deg);
+    transform:  translateX(-50%) translateY(-50%) rotate(90deg);
+}
+
+.wip-woocarousel-wrapper:hover .slick-prev, 
+.wip-woocarousel-wrapper:hover .slick-next {
+	opacity: 1.0;
+}
+
+.wip-woocarousel-wrapper .slick-prev {
+	left:15px;
+}
+
+.wip-woocarousel-wrapper .slick-next {
+	right:15px;
+	background-position:-30px 0;
+}
+
+.wip-woocarousel-wrapper .slick-prev:hover, 
+.wip-woocarousel-wrapper .slick-next:hover {
+    background-color: #d6d6d6;
+}
+
+.wip-woocarousel-wrapper .slick-dots,
+.wip-woocarousel-wrapper ul.slick-dots {
+    position: absolute;
+    bottom: 10px;
+    display: block;
+    width: 100%;
+    margin:0 !important;
+    padding: 0 !important;
+    list-style: none;
+    text-align: center;
+}
+
+.wip-woocarousel-wrapper .slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    padding: 0;
+    cursor: pointer;
+	margin:0 2px;
+	border:none !important;
+}
+
+.wip-woocarousel-wrapper .slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: #d6d6d6;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	padding:0;
+}
+
+.wip-woocarousel-wrapper .slick-dots li.slick-active button,
+.wip-woocarousel-wrapper .slick-dots li button:hover,
+.wip-woocarousel-wrapper .slick-dots li button:focus {
+    background: #869791;
+	outline:none;
+	box-shadow: none
+}
+
+.wip-woocarousel-wrapper .slick-dots li button:hover:before,
+.wip-woocarousel-wrapper .slick-dots li button:focus:before {
+    opacity: 1;
+}
+
+.wip-woocarousel-wrapper .slick-dots li button:before {
+	display:none;
+	visibility:hidden;
+}
+
+/* ===============================================
+   GENERAL
+   =============================================== */
+
+.wip-woocarousel-wrapper[data-dots='on'] {
+	padding-bottom:30px !important
+}
+
+.wip-woocarousel-wrapper .woocommerce .woocarousel-image ,
+.wip-woocarousel-wrapper .woocommerce .woocarousel-content {
+	position:relative;
+	padding:0;
+	text-align:left;
+}
+
+.wip-woocarousel-wrapper .woocommerce .woocarousel-image img {
+	margin:0
+}
+
+.wip-woocarousel-wrapper .woocommerce .woocarousel-image img.wp-post-image:hover { 
+	-moz-transform: none;
+	-webkit-transform: none;
+	-o-transform: none;
+	transform: none;
+}
+
+.wip-woocarousel-wrapper .woocommerce .woocarousel-content h3 {
+	text-align:left;
+	padding:1em 0;
+	margin:0;
+	font-size: 1em;
+	color:#616161;
+}
+
+.wip-woocarousel-wrapper .woocommerce .woocarousel-content {
+	z-index:9998
+}
+
+.wip-woocarousel-wrapper .woocommerce span.onsale {
+	z-index:9999;
+    height: 40px;
+    width: 40px;
+	line-height:40px;
+    font-weight: 700;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    left: inherit;
+	right:0;
+    min-height: inherit;
+    min-width: inherit;
+	border-radius: 0	;
+}
+
+.wip-woocarousel-wrapper .woocommerce a.added_to_cart {
+    display: none !important;
+	visibility:hidden !important;
+}
+
+.wip-woocarousel-wrapper .woocommerce .woocarousel-content .price {
+    display: block;
+    font-weight: 400;
+	padding:0 0 2em 0;
+	margin:0 !important;
+    font-size: .9em;
+	color:#616161;
+	text-align:left;
+}
+
+.wip-woocarousel-wrapper .woocommerce .woocarousel-content .button  {
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	position:relative;
+	margin:0 auto;
+	display:inline-block;
+	font-weight:400;
+	line-height:1;
+
+	padding:12px 14px;
+
+}
+
+.wip-woocarousel-wrapper .woocommerce .woocarousel-content a.button.loading {
+    opacity: .75;
+	padding-right: 2.618em;
+}
+
+.wip-woocarousel-wrapper .woocommerce #respond input#submit.loading:after, 
+.wip-woocarousel-wrapper .woocommerce a.button.loading:after, 
+.wip-woocarousel-wrapper .woocommerce button.button.loading:after, 
+.wip-woocarousel-wrapper .woocommerce input.button.loading:after {
+    font-family: Genericons;
+	content: '\f420';
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400;
+    position: absolute;
+    -webkit-animation: spin 2s linear infinite;
+    -moz-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+    top: inherit;
+    vertical-align: middle;
+	margin-left: .53em;
+}
+
+
+.wip-woocarousel-wrapper .woocommerce #respond input#submit.added:after, 
+.wip-woocarousel-wrapper .woocommerce a.button.added:after, 
+.wip-woocarousel-wrapper .woocommerce button.button.added:after, 
+.wip-woocarousel-wrapper .woocommerce input.button.added:after {
+    font-family: Genericons;
+	content: '\f418';
+	margin-left: .53em;
+    vertical-align: bottom;
+}
+
+.wip-woocarousel-wrapper  .woocommerce .woocarousel-content a.button:hover ,
+.wip-woocarousel-wrapper  .woocommerce .woocarousel-content a.button:active ,
+.wip-woocarousel-wrapper  .woocommerce .woocarousel-content a.button:focus {
+	outline:none;
+	box-shadow: none;
+}
+
+.wip-woocarousel-wrapper .woocommerce .star-rating {
+	margin-bottom:.5em;
+	font-size: 1em;
+	display:block;
+	float:none;
+	margin:0
+}
+
+.wip-woocarousel-wrapper .woocommerce .woocarousel-content .star-rating  {
+    float: none;
+    overflow: hidden;
+    position: relative;
+    height: 1em;
+    line-height: 1;
+    font-size: 1em;
+    width: 5.4em;
+    font-family: Genericons !important ;
+	color:#ffbf00;
+}
+
+.wip-woocarousel-wrapper .woocommerce .star-rating:before {
+	content: '\f512\f512\f512\f512\f512';
+    color: #d3ced2;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+	margin-top:0;
+}
+
+.wip-woocarousel-wrapper .woocommerce .star-rating span {
+    overflow: hidden;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding-top: 1.5em;
+	display:block;
+	color:#ffbf00;
+}
+
+.wip-woocarousel-wrapper .woocommerce .star-rating span:before {
+	content: '\f512\f512\f512\f512\f512';
+    top: 0;
+    position: absolute;
+    left: 0;
+}

@@ -1,0 +1,16 @@
+#sub-accordion-panel-avata_frontpage_sections_panel > li.control-section > .accordion-section-title i {
+	float: left;
+    margin-top: 4px;
+    padding-right: 6px;
+}
+#customize-control-sidebars_widgets-section-banner-1,
+#customize-control-sidebars_widgets-section-video-1,
+#customize-control-sidebars_widgets-section-service-1,
+#customize-control-sidebars_widgets-section-intro-1,
+#customize-control-sidebars_widgets-section-gallery,
+#customize-control-sidebars_widgets-section-team,
+#customize-control-sidebars_widgets-section-testimonial,
+#customize-control-sidebars_widgets-section-slogan,
+#customize-control-sidebars_widgets-section-blog{
+	display:none !important;
+	}

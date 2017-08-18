@@ -1,0 +1,40 @@
+Return-Path: <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Delivered-To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Received: from sg3plcpnl0046.prod.sin3.secureserver.net
+	by sg3plcpnl0046.prod.sin3.secureserver.net (Dovecot) with LMTP id 79axDNeTkVk/3AgAppqqDg
+	for <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>; Mon, 14 Aug 2017 05:13:11 -0700
+Return-path: <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Envelope-to: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Delivery-date: Mon, 14 Aug 2017 05:13:11 -0700
+Received: from promocircle by sg3plcpnl0046.prod.sin3.secureserver.net with local (Exim 4.88)
+	(envelope-from <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>)
+	id 1dhEF5-002R3U-4L
+	for promocircle@sg3plcpnl0046.prod.sin3.secureserver.net; Mon, 14 Aug 2017 05:13:11 -0700
+To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Subject: [PromoCircle] New user account
+X-PHP-Script: promocircle.com/index.php for 150.242.67.73
+X-PHP-Filename: /home/promocircle/public_html/index.php REMOTE_ADDR: 150.242.67.73
+Date: Mon, 14 Aug 2017 12:13:11 +0000
+From: PromoCircle <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Message-ID: <7bef6a676e5387302d44d368e649aca9@promocircle.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Qwerty Qwerty has just created an account on PromoCircle. To view their profile click here:
+
+http://promocircle.com/register/qwertyqwerty/
+
+Here is the submitted registration form:
+
+country: India
+Currency: INR
+form_id: 425
+date submitted: 14 Aug 2017 17:42
+role: member
+first_name: qwerty
+last_name: qwerty
+user_email: qwerty@gmail.com
+mobile_number: 9871281327
+user_login: qwertyqwerty
+

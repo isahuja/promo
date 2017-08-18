@@ -1,0 +1,45 @@
+table {
+    width: 100%;
+}
+
+.product-name-head, .product-name {
+    text-align: left;
+    width: 20%;
+    word-wrap: break-word;
+}
+
+
+.sku-head, .sku {
+    text-align: left;
+    width: 10%;
+    word-wrap: break-word;
+}
+
+.qty-head, .qty {
+    width: 15%;
+    text-align: center;
+}
+
+.price {
+    width: 15%;
+    text-align: right;
+}
+
+.price-head {
+    width: 15%;
+    text-align: right;
+}
+
+.remarks-head, .remarks {
+    width: 40%;
+    word-wrap: break-word;
+    text-align: justify;
+}
+
+.remarks-head {
+    text-align: center;
+}
+
+.price-message {
+    font-size: 12px;
+}

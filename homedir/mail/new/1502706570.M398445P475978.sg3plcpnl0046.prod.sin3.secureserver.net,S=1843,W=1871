@@ -1,0 +1,28 @@
+Return-Path: <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Delivered-To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Received: from sg3plcpnl0046.prod.sin3.secureserver.net
+	by sg3plcpnl0046.prod.sin3.secureserver.net (Dovecot) with LMTP id zHSrF4p7kVlKQwcAppqqDg
+	for <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>; Mon, 14 Aug 2017 03:29:30 -0700
+Return-path: <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Envelope-to: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Delivery-date: Mon, 14 Aug 2017 03:29:30 -0700
+Received: from promocircle by sg3plcpnl0046.prod.sin3.secureserver.net with local (Exim 4.88)
+	(envelope-from <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>)
+	id 1dhCck-001zpQ-AE
+	for promocircle@sg3plcpnl0046.prod.sin3.secureserver.net; Mon, 14 Aug 2017 03:29:30 -0700
+To: promocircle@sg3plcpnl0046.prod.sin3.secureserver.net
+Subject: Your email has been sent
+X-PHP-Script: promocircle.com/wp-admin/admin.php for 150.242.67.73
+X-PHP-Filename: /home/promocircle/public_html/wp-admin/admin.php REMOTE_ADDR: 150.242.67.73
+Date: Mon, 14 Aug 2017 10:29:29 +0000
+From: PromoCircle <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Reply-To: "\"PromoCircle\"" <promocircle@sg3plcpnl0046.prod.sin3.secureserver.net>
+Message-ID: <27ed294461ecc4c45947c5629ad17b5d@promocircle.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+X-Mailer: PHP7.1.6
+MIME-Version: 1.0
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+Hi Admin,<br/><br/>Email has been sent successfully to 3 email(s). Please find the details below:<br/><br/>Unique ID: jqdbve-lihcaw-cghqtw-qjkzgy-dikomr<br/>Start Time: 2017-08-14 10:29:29<br/>End Time: 2017-08-14 10:29:30<br/>For more information, login to your dashboard and go to Reports menu in Email Subscribers.<br/><br/>Thank You.
+

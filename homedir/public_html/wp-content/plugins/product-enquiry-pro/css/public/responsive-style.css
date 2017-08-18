@@ -1,0 +1,116 @@
+/* 
+Generic Styling, for Desktops/Laptops 
+*/
+
+.generated_for_desktop{
+    display: table;
+    table-layout: fixed;
+}
+
+.generated_for_desktop, .generated_for_mobile{ 
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+.generated_for_desktop th { 
+    color: black; 
+    font-weight: bold;
+}
+
+.generated_for_desktop td, 
+.generated_for_desktop th,
+.generated_for_mobile td, 
+.generated_for_mobile th  { 
+    text-align: left; 
+    padding: 1.618em;
+    display: table-cell;
+    text-align: justify;
+}
+
+.generated_for_desktop td.td-btn-update{
+    text-align: right;
+}
+
+
+.generated_for_desktop tr:nth-of-type(even), .generated_for_desktop th { 
+    background-color: #f8f8f8;
+}
+
+.generated_for_desktop tr:nth-of-type(odd) {
+    background-color: #fdfdfd;
+}
+
+.generated_for_mobile{
+    display: none;
+}
+
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+    .generated_for_mobile{
+        display: table;
+        
+    }
+
+    .generated_for_mobile tr th,  .generated_for_mobile tr td{
+        color: black;
+    }
+
+    .generated_for_mobile tr.odd th,  .generated_for_mobile tr.odd td{
+        background-color: #f8f8f8;
+    }
+
+    .generated_for_mobile tr.even th,  .generated_for_mobile tr.even td{
+        background-color: #fdfdfd;
+    }
+
+    .generated_for_mobile th,  .generated_for_mobile td{
+        border-right: 0px;
+    }
+
+    .generated_for_mobile th:after {
+        content: ':';
+    }
+
+    .generated_for_desktop {
+        display: none;
+    }
+
+    .mpe-left.wdm-enquiry-form-label {
+        display: none;
+    }
+
+    .td-btn-update{
+        padding: 1.318em;
+    }
+
+    .update.wdm-update {
+        font-size: 12px !important;
+        width: 70%;
+        height: 100%;
+        padding: 0%;
+        margin-left: 14% !important;
+    }
+
+    .PDFLogo{
+        visibility: hidden;
+        display: none;
+    }
+
+    .from-data, .to-data, .expiration-data {
+        padding-left: 2px !important;
+    }
+
+    .quoteup-quote-cart th.product-remove {
+        display: none;
+    }
+
+    .quoteup-quote-cart td.product-remove {
+        display: inline-table;
+        width: 251%;
+    }
+
+    .mpe-right {
+        width: 100%;
+    }
+}
